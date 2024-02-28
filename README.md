@@ -1,13 +1,13 @@
 <!-- Heading -->
-<h2 align="end">Welcome to the universe of Daniel Ekerhovd 🪐</h2>
+<h2>Welcome to the universe of Daniel Ekerhovd 🪐</h2>
 
 
 <!-- About text and socials -->
-<p align="end">I'm a Front-end student with a goal of becoming a fulltime web developer. I love creative and beautiful web design, which inspires me to expand my knowledge in designing and programming.</p>
-<p align="end">Currently enrolled 2th year <a href="https://www.noroff.no/studier/fagskole/frontend-utvikling">@Noroff</a></p>
+<p>I'm a Front-end student with a goal of becoming a fulltime web developer. I love creative and beautiful web design, which inspires me to expand my knowledge in designing and programming.</p>
+<p>Currently enrolled 2th year <a href="https://www.noroff.no/studier/fagskole/frontend-utvikling">@Noroff</a></p>
 
-<p align="end">Contact me here! 👇</p>
-<p align="end">
+<p>👇 Contact me here!</p>
+<p>
   <a href="https://www.linkedin.com/in/daniel-ekerhovd/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
