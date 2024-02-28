@@ -1,11 +1,13 @@
 <!-- Heading -->
-<h2 align="">Welcome to the universe of Daniel Ekerhovd 🪐</h2>
+<h2 align="end">Welcome to the universe of Daniel Ekerhovd 🪐</h2>
 
 
 <!-- About text and socials -->
-I'm a Front-end student with a goal of becoming a fulltime web developer. I love creative and beautiful web design, which inspires me to expand my knowledge in designing and programming.
-<p align="">Currently enrolled 2th year <a href="https://www.noroff.no/studier/fagskole/frontend-utvikling">@Noroff</a></p>
-<p align="">
+<p align="end">I'm a Front-end student with a goal of becoming a fulltime web developer. I love creative and beautiful web design, which inspires me to expand my knowledge in designing and programming.</p>
+<p align="end">Currently enrolled 2th year <a href="https://www.noroff.no/studier/fagskole/frontend-utvikling">@Noroff</a></p>
+
+<p align="end">Contact me here! 👇</p>
+<p align="end">
   <a href="https://www.linkedin.com/in/daniel-ekerhovd/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
@@ -32,7 +34,6 @@ Future skills:
 </p>
 
 <!-- Stats -->
----
 <div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielEkerhovd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/></div>
 
 
