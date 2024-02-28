@@ -29,7 +29,7 @@ My skills:
 Future skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,tailwind" />
   </a>
 </p>
 
