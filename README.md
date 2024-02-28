@@ -1,9 +1,9 @@
 <!-- Heading -->
-<h2>Welcome to the universe of Daniel Ekerhovd 🪐</h2>
+<h2>Welcome to the universe of <a href="https://danielekerhovd.com/">Daniel Ekerhovd</a>🪐</h2>
 
 
 <!-- About text and socials -->
-<p>I'm a Front-end student with a goal of becoming a fulltime web developer. I love creative and beautiful web design, which inspires me to expand my knowledge in designing and programming.</p>
+<p>I'm a Front-end student with a goal of becoming a fulltime web developer. I love creative and beautiful web design,<br>which inspires me to expand my knowledge in designing and programming.</p>
 <p>Currently enrolled 2th year <a href="https://www.noroff.no/studier/fagskole/frontend-utvikling">@Noroff</a></p>
 
 <p>👇 Contact me here!</p>
