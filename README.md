@@ -35,7 +35,7 @@ Future skills:
 
 <!-- Stats -->
 <div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielEkerhovd&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/></div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=DanielEkerhovd" alt="github stats" />
 
 <!--
 **DanielEkerhovd/DanielEkerhovd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
