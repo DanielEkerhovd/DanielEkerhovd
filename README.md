@@ -22,14 +22,14 @@
 My skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,astro" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
   </a>
 </p>
 
 Future skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,svelte,bootstrap,tailwind,astro" />
   </a>
 </p>
 
