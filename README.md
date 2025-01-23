@@ -7,7 +7,8 @@
 
 <p>When im not working, i love to attend social activities and be active with mountainhikes, bigband saxophone and DND 🐉</p>
 
-<p>👇 Contact me here!</p>
+<p>Interested to get to know me better?</p>
+<p>👇 Contact me here 👇</p>
 <p>
   <a href="https://www.linkedin.com/in/daniel-ekerhovd/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
