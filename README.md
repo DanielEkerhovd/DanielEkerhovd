@@ -16,6 +16,9 @@
   <a href="https://danielekerhovd.com/">
     <img src="https://skillicons.dev/icons?i=netlify"/>
   </a>
+  <a href="mailto:danielekerh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
 </p>
 
 <!-- Skills -->
