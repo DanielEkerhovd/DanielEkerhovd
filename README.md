@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://danielekerhovd.com/">
-    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=netlify"/>
   </a>
 </p>
 
@@ -24,14 +24,14 @@
 My skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,bootstrap,tailwind,netlify" />
   </a>
 </p>
 
 Future skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue" />
+    <img src="https://skillicons.dev/icons?i=vue,deno,godot,flutter" />
   </a>
 </p>
 
