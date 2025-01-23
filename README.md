@@ -3,7 +3,7 @@
 
 
 <!-- About text and socials -->
-<p>I'm a Front-end developer that loves creative and functional programming!<br>Currently working as a developer [@WEBvest](https://github.com/WEBvest).</p>
+<p>I'm a Front-end developer that loves creative and functional programming!<br>Currently working as a developer <a href="https://github.com/WEBvest">@WEBvest</a>.</p>
 
 
 <p>👇 Contact me here!</p>
