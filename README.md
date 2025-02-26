@@ -31,10 +31,17 @@ My skills:
   </a>
 </p>
 
+Working on:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=godot,nextjs" />
+  </a>
+</p>
+
 Future skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,deno,godot,flutter" />
+    <img src="https://skillicons.dev/icons?i=vue,deno,flutter" />
   </a>
 </p>
 
