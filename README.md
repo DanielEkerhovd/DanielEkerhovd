@@ -27,7 +27,7 @@
 My skills:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,bootstrap,tailwind,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,figma,tailwind" />
   </a>
 </p>
 
